@@ -1,0 +1,8 @@
+1. Conda se virtual environment banane ke liye -
+conda create -n {name_of_the_env} {name_of_the_packages_to_be_preinstalled}
+
+2. To actiavte the env -
+conda activate {name_of_the_env}
+
+3. To deactivate the env -
+conda deactivate

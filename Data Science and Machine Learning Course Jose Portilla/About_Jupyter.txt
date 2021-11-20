@@ -1,0 +1,5 @@
+1. "In []" --> is bracket me run hone ka order ata he. [*] means that the input cell is currently running.
+
+2. Jupyter Notebooks ka ext is .ipynb
+
+3. Jupyter Notebooks me hum markdown ak bhi use kar sakte he.
